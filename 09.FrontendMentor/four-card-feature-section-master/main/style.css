@@ -1,0 +1,11 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#div{
+    padding: 30px;
+    
+}
