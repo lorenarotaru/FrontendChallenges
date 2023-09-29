@@ -1,0 +1,32 @@
+html, body{
+    height: 100%;
+    width: 100%
+    font-family  "Barlow Semi Condensed", sans-serif;
+    font-size: 14px;
+}
+
+
+
+#style{
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.stanga{
+    height: 100%;
+    width: 70%;
+
+}
+.dreapta{
+    height: 100%;
+    width: 30%;
+}
+
+#experience{
+    font-weight: 600;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+#opinion{
+    color: hsl(0, 0%, 81%);
+}
